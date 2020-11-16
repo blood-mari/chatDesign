@@ -1,0 +1,62 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden"><defs>
+<symbol id="mic-off" viewBox="0 0 32 32">
+<!-- mic_off -->
+  <path d="M 1.333 1.333 L 30.667 30.667 M 12 12 L 12 16 C 12.001 17.617 12.976 19.074 14.47 19.692 C 15.964 20.311 17.683 19.969 18.827 18.827 M 20 12.453 L 20 5.333 C 20.002 3.278 18.447 1.556 16.402 1.35 C 14.357 1.143 12.489 2.519 12.08 4.533" fill="transparent" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 22.667 22.6 C 20.004 25.318 15.958 26.147 12.441 24.696 C 8.923 23.245 6.639 19.805 6.667 16 L 6.667 13.333 M 25.333 13.333 L 25.333 16 C 25.333 16.55 25.284 17.099 25.187 17.64 M 16 25.333 L 16 30.667 M 10.667 30.667 L 21.333 30.667" fill="transparent" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+</symbol>
+
+<symbol id="mic-on" viewBox="0 0 32 32">
+<!-- mic-on -->
+  <path d="M 16 1.333 C 13.791 1.333 12 3.124 12 5.333 L 12 16 C 12 18.209 13.791 20 16 20 C 18.209 20 20 18.209 20 16 L 20 5.333 C 20 3.124 18.209 1.333 16 1.333 Z" fill="none" stroke-width="2.6666666666666665" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 25.333 13.333 L 25.333 16 C 25.333 21.155 21.155 25.333 16 25.333 C 10.845 25.333 6.667 21.155 6.667 16 L 6.667 13.333 M 16 25.333 L 16 30.667 M 10.667 30.667 L 21.333 30.667" fill="none" stroke-width="2"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+</symbol>
+
+<symbol id="video-off" viewBox="0 0 32 32">
+<!-- video_off -->
+  <path d="M 21.333 21.333 L 21.333 22.667 C 21.333 24.139 20.139 25.333 18.667 25.333 L 4 25.333 C 2.527 25.333 1.333 24.139 1.333 22.667 L 1.333 9.333 C 1.333 7.861 2.527 6.667 4 6.667 L 6.667 6.667 M 14.213 6.667 L 18.667 6.667 C 20.139 6.667 21.333 7.861 21.333 9.333 L 21.333 13.787 L 22.667 15.12 L 30.667 9.333 L 30.667 22.667 M 1.333 1.333 L 30.667 30.667" fill="transparent" stroke-width="2"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+</symbol>
+
+<symbol id="x-circle" viewBox="0 0 32 32">
+<!-- x_circle -->
+  <path d="M 2.667 16 C 2.667 8.636 8.636 2.667 16 2.667 C 23.364 2.667 29.333 8.636 29.333 16 C 29.333 23.364 23.364 29.333 16 29.333 C 8.636 29.333 2.667 23.364 2.667 16 Z" fill="transparent" stroke-width="2.6666666666666665"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 20 12 L 12 20 M 12 12 L 20 20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path></symbol>
+
+<symbol id="video-on" viewBox="0 0 32 32">
+<!-- video-on -->
+  <path d="M 30.667 9.333 L 21.333 16 L 30.667 22.667 Z" fill="transparent" stroke-width="2.6666666666666665"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 4 25.333 C 2.527 25.333 1.333 24.139 1.333 22.667 L 1.333 9.333 C 1.333 7.861 2.527 6.667 4 6.667 L 18.667 6.667 C 20.139 6.667 21.333 7.861 21.333 9.333 L 21.333 22.667 C 21.333 24.139 20.139 25.333 18.667 25.333 Z" fill="transparent" stroke-width="2.6666666666666665" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+</symbol>
+
+<!-- Graphic -->
+<symbol id="framer" viewBox="0 0 48 48">
+<!-- framer -->
+  <path d="M 5 15 C 5 9.477 9.477 5 15 5 L 19 5 C 21.209 5 23 6.791 23 9 L 23 19 C 23 21.209 21.209 23 19 23 L 9 23 C 6.791 23 5 21.209 5 19 Z" fill="#CCC"></path>
+  <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 14 0 C 16.209 0 18 1.791 18 4 L 18 14 C 18 16.209 16.209 18 14 18 L 4 18 C 1.791 18 0 16.209 0 14 Z" transform="translate(25 5) rotate(90 9 9)" fill="#CCC"></path>
+  <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 14 0 C 16.209 0 18 1.791 18 4 L 18 14 C 18 16.209 16.209 18 14 18 L 4 18 C 1.791 18 0 16.209 0 14 Z" transform="translate(25 25) rotate(180 9 9)" fill="#CCC"></path>
+  <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 14 0 C 16.209 0 18 1.791 18 4 L 18 14 C 18 16.209 16.209 18 14 18 L 4 18 C 1.791 18 0 16.209 0 14 Z" transform="translate(5 25) rotate(270 9 9)" fill="#CCC"></path>
+</symbol>
+
+<symbol id="users" viewBox="0 0 32 32">
+<!-- users -->
+  <path d="M 22.667 28 L 22.667 25.333 C 22.667 22.388 20.279 20 17.333 20 L 6.667 20 C 3.721 20 1.333 22.388 1.333 25.333 L 1.333 28" fill="transparent" stroke-width="2.6666666666666665" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 6.667 9.333 C 6.667 6.388 9.054 4 12 4 C 14.946 4 17.333 6.388 17.333 9.333 C 17.333 12.279 14.946 14.667 12 14.667 C 9.054 14.667 6.667 12.279 6.667 9.333 Z" fill="transparent" stroke-width="2.6666666666666665"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 30.667 28 L 30.667 25.333 C 30.665 22.903 29.02 20.781 26.667 20.173 M 21.333 4.173 C 23.693 4.778 25.344 6.904 25.344 9.34 C 25.344 11.776 23.693 13.902 21.333 14.507" fill="transparent" stroke-width="2"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path></symbol>
+
+<symbol id="settings" viewBox="0 0 32 32">
+<!-- settings -->
+  <path d="M 12 16 C 12 13.791 13.791 12 16 12 C 18.209 12 20 13.791 20 16 C 20 18.209 18.209 20 16 20 C 13.791 20 12 18.209 12 16 Z" fill="transparent" stroke-width="2.6666666666666665" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 25.867 20 C 25.504 20.823 25.678 21.784 26.307 22.427 L 26.387 22.507 C 26.887 23.007 27.169 23.686 27.169 24.393 C 27.169 25.101 26.887 25.78 26.387 26.28 C 25.886 26.781 25.208 27.062 24.5 27.062 C 23.792 27.062 23.114 26.781 22.613 26.28 L 22.533 26.2 C 21.89 25.571 20.929 25.397 20.107 25.76 C 19.301 26.105 18.777 26.896 18.773 27.773 L 18.773 28 C 18.773 29.473 17.579 30.667 16.107 30.667 C 14.634 30.667 13.44 29.473 13.44 28 L 13.44 27.88 C 13.419 26.977 12.848 26.178 12 25.867 C 11.177 25.504 10.216 25.678 9.573 26.307 L 9.493 26.387 C 8.993 26.887 8.314 27.169 7.607 27.169 C 6.899 27.169 6.22 26.887 5.72 26.387 C 5.219 25.886 4.938 25.208 4.938 24.5 C 4.938 23.792 5.219 23.114 5.72 22.613 L 5.8 22.533 C 6.429 21.89 6.603 20.929 6.24 20.107 C 5.895 19.301 5.104 18.777 4.227 18.773 L 4 18.773 C 2.527 18.773 1.333 17.579 1.333 16.107 C 1.333 14.634 2.527 13.44 4 13.44 L 4.12 13.44 C 5.023 13.419 5.822 12.848 6.133 12 C 6.496 11.177 6.322 10.216 5.693 9.573 L 5.613 9.493 C 5.113 8.993 4.831 8.314 4.831 7.607 C 4.831 6.899 5.113 6.22 5.613 5.72 C 6.114 5.219 6.792 4.938 7.5 4.938 C 8.208 4.938 8.886 5.219 9.387 5.72 L 9.467 5.8 C 10.11 6.429 11.071 6.603 11.893 6.24 L 12 6.24 C 12.806 5.895 13.33 5.104 13.333 4.227 L 13.333 4 C 13.333 2.527 14.527 1.333 16 1.333 C 17.473 1.333 18.667 2.527 18.667 4 L 18.667 4.12 C 18.67 4.997 19.194 5.788 20 6.133 C 20.823 6.496 21.784 6.322 22.427 5.693 L 22.507 5.613 C 23.007 5.113 23.686 4.831 24.393 4.831 C 25.101 4.831 25.78 5.113 26.28 5.613 C 26.781 6.114 27.062 6.792 27.062 7.5 C 27.062 8.208 26.781 8.886 26.28 9.387 L 26.2 9.467 C 25.571 10.11 25.397 11.071 25.76 11.893 L 25.76 12 C 26.105 12.806 26.896 13.33 27.773 13.333 L 28 13.333 C 29.473 13.333 30.667 14.527 30.667 16 C 30.667 17.473 29.473 18.667 28 18.667 L 27.88 18.667 C 27.003 18.67 26.212 19.194 25.867 20 Z" fill="transparent" stroke-width="2.6666666666666665" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path></symbol>
+
+<symbol id="zoom-out" viewBox="0 0 32 32">
+<!-- zoom_out -->
+  <path d="M 4 14.667 C 4 8.776 8.776 4 14.667 4 C 20.558 4 25.333 8.776 25.333 14.667 C 25.333 20.558 20.558 25.333 14.667 25.333 C 8.776 25.333 4 20.558 4 14.667 Z" fill="transparent" stroke-width="2.6666666666666665"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 28 28 L 22.2 22.2 M 10.667 14.667 L 18.667 14.667" fill="transparent" stroke-width="2"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path></symbol>
+
+<symbol id="zoom-in" viewBox="0 0 32 32">
+<!-- zoom_in -->
+  <path d="M 4 14.667 C 4 8.776 8.776 4 14.667 4 C 20.558 4 25.333 8.776 25.333 14.667 C 25.333 20.558 20.558 25.333 14.667 25.333 C 8.776 25.333 4 20.558 4 14.667 Z" fill="transparent" stroke-width="2.6666666666666665"  stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+  <path d="M 28 28 L 22.2 22.2 M 14.667 10.667 L 14.667 18.667 M 10.667 14.667 L 18.667 14.667" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray=""></path>
+</symbol>
+
+</defs>
+</svg>

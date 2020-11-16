@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Chat components</title>
+</head>
+<body>
+<div class="container">
+    <ul class="chat_list">
+        <l1>
+            <button class="chat_element app-btn">
+                <svg width="48" height="48" aria-label="" class="">
+                    <use href='./sprite.svg#framer'></use>
+
+            </button>
+
+        </l1>
+
+        <l1 > <button class="chat_element mic-btn">
+            <svg width="32" height="32" aria-label="" class="">
+            <use class="off" href='./sprite.svg#mic-off'></use>
+            <use class="on" href='./sprite.svg#mic-on'></use>
+            </svg> </button>
+        </l1>
+        <l1 ><button class="chat_element video-btn"><svg width="32" height="32" aria-label="" class="">
+            <use class="on" href='./sprite.svg#video-on'></use>
+            <use class="off" href='./sprite.svg#video-off'></use>
+            </svg> </button>
+        </l1>
+
+        <l1 ><div class="chat_box">
+           <div class="chat_element users">
+            <svg width="32" height="32" aria-label="" class="users_svg" >
+                    <use href='./sprite.svg#users'></use></svg>
+            </div>
+            <div class="text-input"><p>Text chat</p></div>
+            <div class="chat_element chat_element--counter"><div class="counter"><span class="counter_number">2</span></div></div>
+        </div>
+        </l1>
+
+        <l1 ><button class="chat_element zoom-in-btn">
+           <svg width="32" height="32" aria-label="" class="zoom-in_svg">
+                <use href='./sprite.svg#zoom-in'></use></svg>
+            </button>
+        </l1>
+        <l1 ><button class="chat_element zoom-out-btn">
+            <svg width="32" height="32" aria-label="" class="zoom-out_svg">
+                 <use href='./sprite.svg#zoom-out'></use></svg>
+             </button>
+        </l1>
+
+        <l1 ><button class="chat_element settings-btn">
+            <svg width="32" height="32" aria-label="" class="settings_svg">
+                 <use href='./sprite.svg#settings'></use></svg>
+             </button>
+        </l1>
+    </ul>
+</div>
+</body>
+</html>
