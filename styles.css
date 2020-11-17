@@ -67,7 +67,7 @@ li {
 
 @media screen and (min-width: 1200px) {
     .container {
-        width: 690px;}
+        width: 695px;}
 }
 
 .chat_list {
@@ -78,7 +78,7 @@ li {
 }
 
 .chat_list li+li {
-    margin-left: 15px;
+    margin-left: 7px;
 }
 
 .chat_box {
