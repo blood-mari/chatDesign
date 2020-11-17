@@ -36,7 +36,7 @@ li {
 }
 
 .container {
-    min-width: 554px;
+    width: 554px;
 
     min-height: 56px;
     background-color: var(--cont-bg-color);
@@ -54,6 +54,21 @@ li {
     transform: translate(-50%, -50%);
 
   }
+
+  @media screen and (min-width: 700px) {
+    .container {
+        width: 620px;}
+}
+
+@media screen and (min-width: 900px) {
+    .container {
+        width: 670px;}
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        width: 690px;}
+}
 
 .chat_list {
     display: flex;
